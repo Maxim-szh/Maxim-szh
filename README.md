@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Short bio -->
-<h3 align="center">Network engineer by day, code & data explorer by night</h3>
+<h3 align="center">Network engineer by day, code by night</h3>
 
 <p align="center">
   <samp>
@@ -29,17 +29,15 @@
 
 ### 👨‍💻 About me
 
-
 Name: Maxim
 From: Russia 🇷🇺
 Work: Network engineer
-Study: IT student
+Study: IT
 Interests:
   - Python (Pandas, NumPy, Django)
-  - Arduino (firmware, hardware)
+  - Arduino (С++, ESP32)
   - Data analytics (Jupyter, SQL)
   - AI, automation, and everything in between
-Current focus: Bridging the physical world with code and finding meaning in data
 <!-- ================= SKILLS ================= -->
 🛠️ Tech stack
 <p align="center"> <!-- Python & libraries --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <br> <!-- Hardware --> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" /> <br> <!-- Data & databases --> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <br> <!-- Tools --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p><!-- ================= GITHUB STATS ================= -->
