@@ -57,8 +57,6 @@ Interests:
 
 <!-- ================= GITHUB STATS ================= -->
 
-### 📊 GitHub stats
-
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-szh&layout=compact&theme=radical" media="(prefers-color-scheme: dark)" />
