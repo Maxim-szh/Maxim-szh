@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Maxim!;Network+engineer;Python+developer;Arduino+enthusiast;Data+analytics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Maxim!;Network+engineer;Python+developer;Arduino+enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,8 +9,6 @@
 <p align="center">
   <samp>
     💻 Writing code in Python and firmware for Arduino.<br>
-    📊 Diving into data: analytics, visualization, finding patterns.<br>
-    🧠 Interested in AI and everything related to it.<br>
     🚀 Here — my experiments, pet projects, and useful work.
   </samp>
 </p>
@@ -20,22 +18,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ================= ABOUT ================= -->
-
-### 👨‍💻 About me
-
-<pre>
-From: Russia 🇷🇺
-Work: Network engineer
-Study: IT
-
-Interests:
-  • Python (Pandas, NumPy, Django)
-  • Arduino (C++, ESP32)
-  • Data analytics (Jupyter, SQL)
-  • AI, automation, and everything in between
-</pre>
 
 <!-- ================= SKILLS ================= -->
 
