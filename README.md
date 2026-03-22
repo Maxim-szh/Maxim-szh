@@ -19,10 +19,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ================= SKILLS ================= -->
-
-### 🛠️ Tech stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -45,14 +41,4 @@
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-szh&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-szh&layout=compact" />
   </picture>
-</p>
-
-<!-- ================= CONTACTS ================= -->
-
-### 📬 Contact me
-
-<p align="center">
-  <a href="https://t.me/maxiim_szh">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
