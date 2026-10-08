@@ -4,8 +4,8 @@
 
 <p align="center">
   <samp>
-    Network infrastructure · Linux · Automation<br>
-    Software · Embedded systems · IoT
+    Working with networks, Linux systems and distributed services<br>
+    Building tools, automation and embedded projects along the way
   </samp>
 </p>
 
