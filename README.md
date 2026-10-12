@@ -29,12 +29,6 @@
   <img height="42" src="https://cdn.simpleicons.org/espressif/8B7CF6" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maxim-szh&label=PROFILE%20VIEWS&color=8B7CF6&style=flat-square" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B7CF6&height=60&section=footer" width="100%"/>
 </p>
